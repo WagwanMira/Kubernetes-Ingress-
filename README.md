@@ -1,3 +1,3 @@
 
 # Projects
-Easy Configuration of Ingress
+Easy Configuration of Ingress on BareMetal with LoadBalancer 
